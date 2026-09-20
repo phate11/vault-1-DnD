@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Remix Remix D\u0026D Obsidian Vault",
+  "description": "Complete, connected, and backlinked Obsidian vault containing all rules, stat blocks, spells, modern subclasses, equipment, toolkit mechanics, and creature catalogs with interactive graph view and zip export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
